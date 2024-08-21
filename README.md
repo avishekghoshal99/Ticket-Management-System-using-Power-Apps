@@ -1,7 +1,9 @@
 Ticket-Management-System-using-Power-Apps
 
 **NOTE: I've uploaded the screesnhot of the project as my license has expired in Power Apps, I've provided video of the working canvas application below for reference.**
-Link: 
+
+Link: https://drive.google.com/file/d/1Mk9Xncz0NjAb7J-brLISDQ_45zQ_X-Pa/view?usp=drive_link
+
 Overview:
 
 This project focuses on creating a Ticket Management System using Microsoft Power Apps. The system is designed to streamline the process of tracking, managing, and resolving support tickets within an organization. It provides an intuitive interface for users to submit, monitor, and manage tickets, while allowing support teams to efficiently prioritize and resolve issues. The solution is built to enhance productivity, improve response times, and provide better visibility into the status of support requests.
